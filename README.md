@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Player-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Resonic Free Installer** — Resonic is a free music player and library explorer for Windows with an extremely fast waveform browser for navigating large audio collections. Works without internet access, no account required. Full offline installation.
+**💻 Resonic Free Installer** — Resonic is a fast, free music player and audio file browser for Windows that emphasizes quick navigation through large audio libraries. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Resonic
 
-Resonic is a free music player and library explorer for Windows with an extremely fast waveform browser for navigating large audio collections. It specializes in quick browsing and preview of music and sound libraries — popular with audio professionals and sample collectors.
+Resonic is a fast, free music player and audio file browser for Windows that emphasizes quick navigation through large audio libraries. Browse folders directly, play files instantly, and use the waveform preview for navigating within tracks. Resonic Player (free) and Resonic Pro (paid) offer progressively more features for DJ-style browsing and audio professionals who need to audition many files quickly.
 
 ---
 
 ## ❌ Problem: Resonic is hard to access
 
-- **Windows Only** — No macOS or Linux version available
-- **Waveform Browser Focus** — Specialized for audio browsing; not a traditional playlist-based player
-- **Paid Pro Version** — Free player; Pro version with advanced features requires purchase
-- **Niche Use Case** — Most valuable for audio professionals with large sample and music libraries
+- **Windows Only** — No cross-platform version
+- **Library Management** — Folder-based browsing rather than traditional library organization
+- **Streaming Integration** — No streaming service support
+- **Commercial Pro Version** — Advanced features require paid Resonic Pro
 
 ---
 
@@ -121,7 +121,7 @@ Resonic is a free music player and library explorer for Windows with an extremel
 
 ---
 
-**Resonic Free Installer** — Resonic is a free music player and library explorer for Windows with an extremely fast waveform browser for navigating large audio collections. Install without internet connection today!
+**Resonic Free Installer** — Resonic is a fast, free music player and audio file browser for Windows that emphasizes quick navigation through large audio libraries. Install without internet connection today!
 
 <div align="center">
 
